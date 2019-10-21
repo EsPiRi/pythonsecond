@@ -1,0 +1,1 @@
+This repository contains the solutions of the hackerrank python challenges under hackerrank folder. 
